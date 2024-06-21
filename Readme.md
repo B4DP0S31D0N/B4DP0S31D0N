@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=15&duration=3000&pause=1000&color=C6FF00&multiline=true&random=false&width=435&lines=B4DP0S31D0N;CyberSecurity+Analyst+%7C+Security+%2B+%7C+E%7CHE+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3000&pause=1000&color=C6FF00&multiline=true&random=false&width=435&lines=B4DP0S31D0N;CyberSecurity+Analyst+%7C+Security+%2B+%7C+E%7CHE+" alt="Typing SVG" /></a>
